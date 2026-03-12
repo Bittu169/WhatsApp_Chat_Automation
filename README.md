@@ -83,7 +83,7 @@ python main.py
 You can add screenshots of the application here.
 
 ```
-/screenshots/ui.png
+https://github.com/Bittu169/WhatsApp_Chat_Automation/blob/979d3946530a40a7d8b4578287e4862040209aaf/Screenshot%202026-03-12%20174455.png
 ```
 
 ---
