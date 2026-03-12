@@ -73,7 +73,7 @@ auth_token = "YOUR_AUTH_TOKEN"
 # ▶️ Run the Application
 
 ```bash
-python app.py
+python main.py
 ```
 
 ---
