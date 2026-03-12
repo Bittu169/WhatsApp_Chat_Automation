@@ -78,13 +78,12 @@ python main.py
 
 ---
 
-# 🖥️ UI Preview
+# 🖥️ Application Preview
 
-You can add screenshots of the application here.
+<p align="center">
+  <img src="https://github.com/Bittu169/WhatsApp_Chat_Automation/blob/979d3946530a40a7d8b4578287e4862040209aaf/Screenshot%202026-03-12%20174455.png?raw=true" width="700">
+</p>
 
-```
-https://github.com/Bittu169/WhatsApp_Chat_Automation/blob/979d3946530a40a7d8b4578287e4862040209aaf/Screenshot%202026-03-12%20174455.png
-```
 
 ---
 
