@@ -43,7 +43,7 @@ The project uses the **Twilio API for WhatsApp messaging** and a **modern GUI bu
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/whatsapp-message-scheduler.git
+git clone https://github.com/Bittu169/WhatsApp_Chat_Automation.git
 cd whatsapp-message-scheduler
 ```
 
@@ -92,8 +92,7 @@ python main.py
 ```
 whatsapp-message-scheduler
 │
-├── app.py
-├── requirements.txt
+├── main.py
 ├── README.md
 └── screenshots
     └── ui.png
